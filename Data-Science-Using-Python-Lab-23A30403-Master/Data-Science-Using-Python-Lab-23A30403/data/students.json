@@ -1,0 +1,26 @@
+[
+    {
+        "StudentID": 101,
+        "Name": "Alice",
+        "Department": "CSE",
+        "Marks": 85
+    },
+    {
+        "StudentID": 102,
+        "Name": "Bob",
+        "Department": "ECE",
+        "Marks": 78
+    },
+    {
+        "StudentID": 103,
+        "Name": "Charlie",
+        "Department": "CSE",
+        "Marks": 92
+    },
+    {
+        "StudentID": 104,
+        "Name": "David",
+        "Department": "EEE",
+        "Marks": 64
+    }
+]

@@ -1,0 +1,3 @@
+Welcome to Data Science Using Python Lab (Course Code: 23A30403).
+This is a sample text file used for file reading and processing experiments.
+Learning Python for Data Science is powerful and engaging!
